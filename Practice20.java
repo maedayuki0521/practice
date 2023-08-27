@@ -7,6 +7,7 @@ public class Practice20 {
 
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("数値をスペース区切りで二つ入力して下さい ");
         String input = scanner.nextLine();
         String[] strInput = input.split(" ");
         int[] num = new int[strInput.length];
