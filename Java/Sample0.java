@@ -1,6 +1,7 @@
+package Java;
 import java.util.*;
 
-public class Main {
+public class Sample0 {
     public static void main(String[] args) throws Exception {
         //判断基準となるnumを0として設定
         int num = 0;
